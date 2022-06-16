@@ -25,7 +25,7 @@
 # License Link : https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LICENSE
 
 START_MESSAGE = """
-👋Hello {mention}..!
+👋Hello {mention}...!
 It's Power Full [{name}](t.me/{username}) Here 😎
 Add Me To Your Group And Make Sure I'm an Admin There..!
 And Enjoy My Pever Show..! 🤪"""
